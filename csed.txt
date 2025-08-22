@@ -1,3 +1,6 @@
 hi 
 welcome to devops lab
 so we are working on git
+and also gut hub
+doing some uodates
+and closing
